@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on anything with Web development that will help me to increase my skills set
 - 📫 How to reach me :
 
-@Darkk3n on Twitter and Github
-gerardo.aguilar01@outlook.com
+@Darkk3n on Twitter, Github and Xbox
+<br>Email: gerardo.aguilar01@outlook.com
 
 <!---
 Darkk3n/Darkk3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
