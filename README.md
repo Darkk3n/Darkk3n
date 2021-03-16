@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Darkk3n
 - 👀 I’m interested in C# development
 - 🌱 I’m currently learning Angular as well as REST API with .NET Core
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on anything with Web development that will help me to increase my skills set
 - 📫 How to reach me :
 
 @Darkk3n on Twitter and Github
