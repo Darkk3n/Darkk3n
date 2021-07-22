@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darkk3n
-- 👀 I’m interested in C# development
+- 👀 I’m interested in C# and JavaScript development
 - 🌱 I’m currently learning JavaScript as well as REST API with .NET Core
 - 💞️ I’m looking to collaborate on anything with Web development that will help me to increase my skills set
 - 📫 How to reach me :
