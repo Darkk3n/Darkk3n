@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything with Web development that will help me to increase my skills set
 - 📫 How to reach me :
 
-@Darkk3n on Twitter, Github and Xbox
+@Darkk3n on Twitter, Github
 <br>Email: gerardo.aguilar01@outlook.com
 
 <!---
