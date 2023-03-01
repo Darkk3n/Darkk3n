@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gerardo (Gerry for friends)
-- 👀 I’m interested in C# and JavaScript development
+- 👀 I’m interested in C# and JavaScript/Typescript development
 - 🌱 I’m currently learning React as well as REST API with .NET 6
 - 💞️ I’m looking to collaborate on anything with Web development that will help me to increase my skills set
 - 📫 How to reach me :
