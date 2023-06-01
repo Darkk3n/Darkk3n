@@ -4,14 +4,9 @@
 - 💞️ I’m looking to collaborate on anything with Web development that will help me to increase my skills set
 - 📫 How to reach me :
 
-<div id="badges">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/aguilarrgerardo/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="[your-twitter-URL](https://twitter.com/Darkk3n)">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+@Darkk3n on Twitter, Github
+<br>Email: gerardo.aguilar01@outlook.com
+
 
 <!---
 Darkk3n/Darkk3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
