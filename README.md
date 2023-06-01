@@ -7,6 +7,15 @@
 @Darkk3n on Twitter, Github
 <br>Email: gerardo.aguilar01@outlook.com
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aguilarrgerardo/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/Darkk3n">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 
 <!---
 Darkk3n/Darkk3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
