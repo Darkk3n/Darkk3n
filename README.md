@@ -7,7 +7,7 @@
 <br>Email: gerardo.aguilar01@outlook.com
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aguilarrgerardo/">
+  <a href="https://www.linkedin.com/in/aguilarrgerardo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Darkk3n">
