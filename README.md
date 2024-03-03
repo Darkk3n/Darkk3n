@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gerardo
 - 👀 I’m interested in C# and JavaScript/Typescript development
-- 🌱 I’m currently learning React as well as REST API with .NET 6
+- 🌱 I’m currently learning React as well as REST API with .NET 6/8
 - 💞️ I’m looking forward to collaborate on anything with Web development that will help me to increase my skills set
 <br/>
 :hammer_and_wrench: Languages and Tools :
