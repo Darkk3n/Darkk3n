@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gerardo
-- 👀 I’m interested in C#, JS/TS and Python development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking forward to collaborate on anything with Web development that will help me to increase my skills set
+- 👋 Hi, I’m Gerardo — a software developer working primarily in C#, TypeScript/JavaScript
+- 🚀 I build full-stack and web-focused tools, and I’m always sharpening my skills with real projects.
+- 💡 I learn by building — the best way to level up is through practical code. Right now, Python is my next focus.
+- 🤝 I’m open to collaborating on web development, automation, and creative code challenges.
 <br/>
 :hammer_and_wrench: Languages and Tools :
 <div>
