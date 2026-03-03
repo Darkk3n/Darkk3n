@@ -20,12 +20,33 @@
 </div>
 
 ### 🌙 After-Hours Lab
-While my day-to-day is focused on my professional role, I use my free time to experiment with new technologies and build helpful tools. These projects are my "Side Quests" where I explore the latest in the web ecosystem.
+These projects are my "Side Quests"—work done in my free time to experiment with new technologies and solve real-world problems.
 
-#### 🚀 Latest Work: [Jurídico Aduanero AGS](https://github.com/Darkk3n/CustomsConsultancyV2)
-A professional consultancy site built to explore **React 19** and **Tailwind 4**.
-- **Live Demo:** [customs-consultancy-v2.vercel.app](https://customs-consultancy-v2.vercel.app/)
-- **Tech Highlights:** Optimized Vite 6 build, concurrent rendering, and mobile-first architecture.
+#### 🖥️ Desktop & Backend Engineering
+* **[Engineering Management System](https://github.com/Darkk3n/EngineeringManagement)**
+    * *Technical Prototype* built with **C# & .NET 8**.
+    * Focuses on **Entity Framework Core 8**, Dependency Injection, and programmatic PDF automation using iText 9.
+    * Designed for complex personnel certification tracking in industrial environments.
+
+#### 🌐 Modern Web Development
+* **[Jurídico Aduanero AGS](https://github.com/Darkk3n/CustomsConsultancyV2)**
+    * A professional consultancy site built to explore **React 19** and **Tailwind 4**.
+    * Features a high-performance **Vite 6** build and mobile-first architecture.
+* **[React Movie Searcher](https://github.com/Darkk3n/React-Movie-Searcher)**
+    * A performance-focused lab project mastering **Debouncing** and asynchronous API handling.
+
+---
+
+### 🛠️ My Tech Stack
+**Web:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Desktop & Backend:**
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
