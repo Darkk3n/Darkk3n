@@ -18,6 +18,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SqlServer" alt="SqlServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+
+### 🌙 After-Hours Lab
+While my day-to-day is focused on my professional role, I use my free time to experiment with new technologies and build helpful tools. These projects are my "Side Quests" where I explore the latest in the web ecosystem.
+
+#### 🚀 Latest Work: [Jurídico Aduanero AGS](https://github.com/Darkk3n/CustomsConsultancyV2)
+A professional consultancy site built to explore **React 19** and **Tailwind 4**.
+- **Live Demo:** [customs-consultancy-v2.vercel.app](https://customs-consultancy-v2.vercel.app/)
+- **Tech Highlights:** Optimized Vite 6 build, concurrent rendering, and mobile-first architecture.
+
+---
+
+*“Code is poetry, but only if you have the time to write it.”*
 <!---
 Darkk3n/Darkk3n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
