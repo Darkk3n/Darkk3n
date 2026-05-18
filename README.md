@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
 </div>
 
-### 🌙 After-Hours Lab
+### 🌙 After-Hours Labs
 These projects are my "Side Quests"—work done in my free time to experiment with new technologies and solve real-world problems.
 
 #### 🖥️ Desktop & Backend Engineering
