@@ -27,7 +27,7 @@ These projects are my "Side Quests"—work done in my free time to experiment wi
     * *Technical Prototype* built with **C# & .NET 8**.
     * Focuses on **Entity Framework Core 8**, Dependency Injection, and programmatic PDF automation using iText 9.
     * Designed for complex personnel certification tracking in industrial environments.
-* **[File Renamer](https://github.com/Darkk3n/file-renamer)**
+* **[Treasury Toolkit](https://github.com/Darkk3n/treasury-toolkit)**
     * A lightweight desktop productivity tool built with **C# & .NET 10** to handle batch file operations.
     * Features robust structural string manipulation (Regex matching, prefix/suffix insertion, pattern replacements) and asynchronous UI updates.
     * Built to automate repetitive local asset workflows with zero external dependencies.
