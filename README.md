@@ -33,7 +33,7 @@ These projects are my "Side Quests"—work done in my free time to experiment wi
     * Built to automate repetitive local asset workflows with zero external dependencies.
 
 #### 🌐 Modern Web Development
-* **[Jurídico Aduanero AGS](https://github.com/Darkk3n/CustomsConsultancyV2)**
+* **[Jurídico Aduanero AGS](https://github.com/Darkk3n/customer-consultancy)**
     * A production landing page for a Mexican customs-law consultancy, migrated from React/Vite to **Astro 6** and **Tailwind CSS 4**.
     * Ships zero client-side JavaScript by default for fast mobile loads, with a mobile-first, fully static layout deployed on Vercel.
 * **[Pizza Shop](https://github.com/Darkk3n/pizza-shop)**
