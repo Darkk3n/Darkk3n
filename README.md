@@ -34,8 +34,8 @@ These projects are my "Side Quests"—work done in my free time to experiment wi
 
 #### 🌐 Modern Web Development
 * **[Jurídico Aduanero AGS](https://github.com/Darkk3n/CustomsConsultancyV2)**
-    * A professional consultancy site built to explore **React 19** and **Tailwind 4**.
-    * Features a high-performance **Vite 6** build and mobile-first architecture.
+    * A production landing page for a Mexican customs-law consultancy, migrated from React/Vite to **Astro 6** and **Tailwind CSS 4**.
+    * Ships zero client-side JavaScript by default for fast mobile loads, with a mobile-first, fully static layout deployed on Vercel.
 * **[Pizza Shop](https://github.com/Darkk3n/pizza-shop)**
     * A full-stack point-of-sale system for pizza restaurants, built with **Next.js 16**, **React 19** and **Tailwind CSS 4** on an **ASP.NET 10** Minimal API (**C# 14**) with **PostgreSQL**.
     * Features a live kitchen board, automatic inventory deduction on every order, recipe cost management, sales analytics, and role-based access, backed by 115 API tests and GitHub Actions CI.
