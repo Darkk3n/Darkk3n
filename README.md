@@ -36,8 +36,9 @@ These projects are my "Side Quests"—work done in my free time to experiment wi
 * **[Jurídico Aduanero AGS](https://github.com/Darkk3n/CustomsConsultancyV2)**
     * A professional consultancy site built to explore **React 19** and **Tailwind 4**.
     * Features a high-performance **Vite 6** build and mobile-first architecture.
-* **[React Movie Searcher](https://github.com/Darkk3n/React-Movie-Searcher)**
-    * A performance-focused lab project mastering **Debouncing** and asynchronous API handling.
+* **[Pizza Shop](https://github.com/Darkk3n/pizza-shop)**
+    * A full-stack point-of-sale system for pizza restaurants, built with **Next.js 16**, **React 19** and **Tailwind CSS 4** on an **ASP.NET 10** Minimal API (**C# 14**) with **PostgreSQL**.
+    * Features a live kitchen board, automatic inventory deduction on every order, recipe cost management, sales analytics, and role-based access, backed by 115 API tests and GitHub Actions CI.
 * **[Prostore](https://github.com/Darkk3n/prostore)**
     * A modern e-commerce storefront built with Next.js 16, React 19 and Tailwind CSS.
     * Features Prisma-backed product, cart and order workflows plus credential auth, PayPal/Stripe checkout, admin dashboards, and upload-driven media support.
